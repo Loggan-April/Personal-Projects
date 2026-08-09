@@ -1,0 +1,1 @@
+Highlands.py is the main file. Please run that, and it pulls information from the other files. Login.txt contains the waiter's login information, and stock.txt lists available items. Once everything is completed and the "Waiter" completes their shift, then a text file is created with the total sales and items that were served.
